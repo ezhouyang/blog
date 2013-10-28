@@ -1,11 +1,11 @@
 title : eZhouyang
-tagline: Blog Tagline
-author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+tagline: 树莓派 Java Raspberry Pi Web Spring MVC Python Groovy Mysql Arduino 智能家居 四旋翼直升机 鲜切水果 慢生活 slowlife
+author : 
+  name : eZhouyang
+  email : 156768892@qq.com
+  github : eZhouyang
+  twitter : eZhouyang
+  feedburner : eZhouyang
 
 navigation :
   - archive.html
